@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Roger Espinosa Morros!
 
-🎓 **Aspiring Data Scientist & Analyst**  
-Currently studying data science and data analytics, I am passionate about using data to uncover insights and solve real-world problems.  
+🎓 **Data Scientist & Analyst**  
+With experience in data science, analytics, AI, and full stack development, I enjoy exploring how data can be used to solve real-world problems. I’m currently working on personal projects related to demography, statistics, climate change, and supporting small businesses.  
 📍 Based in Barcelona.
 
 ---

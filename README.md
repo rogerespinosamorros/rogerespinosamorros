@@ -35,7 +35,8 @@ I'm eager to grow, explore new technologies, and contribute to exciting projects
 
 ---
 
-## Projects
+
+## 🛠️ Personal Projects
 
 ### [TiendaLibrosProt](https://github.com/rogerespinosamorros/TiendaLibrosProt)
 A simple MERN (MongoDB, Express, React, Node.js) application for managing a book store.  
@@ -45,6 +46,8 @@ A simple MERN (MongoDB, Express, React, Node.js) application for managing a book
 - Responsive UI with React
 
 > More personal projects coming soon!
+
+---
 
 ## 📫 Connect with Me
 

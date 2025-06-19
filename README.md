@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Roger Espinosa Morros!
 
 🎓 **Data Scientist & Analyst**  
-With experience in data science, analytics, AI, and full stack development, I enjoy exploring how data can be used to solve real-world problems. I’m currently working on personal projects related to demography, statistics, climate change, and supporting small businesses.  
+With experience in data science, analytics, AI, and full stack development, I enjoy exploring how data can be used to solve real-world problems. I’m currently working on personal projects related to demography, statistics, climate change, and supporting business-related data.  
 📍 Based in Barcelona.
 
 ---

@@ -45,6 +45,12 @@ A simple MERN (MongoDB, Express, React, Node.js) application for managing a book
 - User registration and authentication  
 - Responsive UI with React
 
+### [WeatherPredictionAustralia](https://github.com/rogerespinosamorros/WeatherPredictionAustralia) (WIP)
+A data science project focused on analyzing and predicting the future habitability of Australia.  
+**Goal:**  
+- Explore climate and weather data to assess if Australia will remain habitable by the next century  
+- Work in progress with extensive experimentation, folders, and files as I develop models and visualizations
+
 > More personal projects coming soon!
 
 ---

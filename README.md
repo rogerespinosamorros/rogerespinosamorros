@@ -52,6 +52,17 @@ A data science project focused on analyzing and predicting the future habitabili
 - Work in progress with extensive experimentation, folders, and files as I develop models and visualizations
 
 ### [Panaderia/Bakery Datathon](https://github.com/rogerespinosamorros/Panaderia-datathon)
+### 📊 Bakery Sales Forecasting — Master's Final Project
+
+End-to-end sales forecasting system for a bakery, developed as the final capstone for my Master’s in Data Science & Analytics. The project covers:
+
+- 🔌 **Database integration** (SQL + SQLAlchemy)  
+- 📈 **EDA** on trends, seasonality, and holidays  
+- 🧠 **ML pipelines** per product (15 total) using `scikit-learn`, `MLflow` for tracking  
+- 📦 **Deployment** via Docker as a prediction API  
+- 📊 **Interactive Power BI dashboard** to visualize forecasts vs historical sales  
+
+**Stack:** Python · Pandas · NumPy · Scikit-learn · MLflow · SQL · Docker · Power BI
 
 > More personal projects coming soon!
 

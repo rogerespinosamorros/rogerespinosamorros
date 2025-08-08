@@ -51,6 +51,8 @@ A data science project focused on analyzing and predicting the future habitabili
 - Explore climate and weather data to assess if Australia will remain habitable by the next century  
 - Work in progress with extensive experimentation, folders, and files as I develop models and visualizations
 
+### [Panaderia/Bakery Datathon](https://github.com/rogerespinosamorros/Panaderia-datathon)
+
 > More personal projects coming soon!
 
 ---

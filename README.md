@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Roger Espinosa Morros!
 
 🎓 **Data Scientist & Analyst**  
-With experience in data science, analytics, AI, and full stack development, I enjoy exploring how data can be used to solve real-world problems. I’m currently working on personal projects related to demography, statistics, climate change, and supporting business-related data.  
+With experience in data science, analytics, AI, and full stack development, I enjoy exploring how data can be used to solve real-world problems. I’m currently working on personal projects related[...]  
 📍 Based in Barcelona.
 
 ---
@@ -47,11 +47,13 @@ A simple MERN (MongoDB, Express, React, Node.js) application for managing a book
 - User registration and authentication  
 - Responsive UI with React
 
-### [WeatherPredictionAustralia](https://github.com/rogerespinosamorros/WeatherPredictionAustralia) (WIP)
-A data science project focused on analyzing and predicting the future habitability of Australia.  
+### [UHI-Barcelona](https://github.com/rogerespinosamorros/UHI-Barcelona)
+Urban Heat Island (UHI) analysis for Barcelona — exploring spatial and temporal patterns of urban warming and potential mitigation strategies.  
 **Goal:**  
-- Explore climate and weather data to assess if Australia will remain habitable by the next century  
-- Work in progress with extensive experimentation, folders, and files as I develop models and visualizations
+- Analyze remote sensing (Landsat/Sentinel) and in-situ temperature data to map UHI intensity across Barcelona  
+- Build models to identify hotspots and drivers (land cover, built density, green spaces)  
+- Create interactive maps and visualizations to communicate findings and recommend mitigation measures (e.g., urban greening, cool roofs)  
+**Stack:** Python · GeoPandas · Rasterio · scikit-learn · Folium/Kepler.gl · Jupyter · Docker
 
 ### [Panaderia/Bakery Datathon](https://github.com/rogerespinosamorros/Panaderia-datathon)
 ### 📊 Bakery Sales Forecasting — Master's Final Project
